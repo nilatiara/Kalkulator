@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NLKalku2</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="nama">Nila Mahardika Tiara Sari</string>
+    <string name="nim">22533631</string>
+    <string name="kelas">TI 6D</string>
+    <string name="judul">MENGHITUNG BAR VOLUME</string>
+    <string name="hintTinggi">Masukan Tinggi</string>
+    <string name="hintLebar">Masukan Lebar</string>
+    <string name="hintPanjang">Masukan Panjang</string>
+</resources>
